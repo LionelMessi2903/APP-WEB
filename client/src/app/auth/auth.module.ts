@@ -15,3 +15,5 @@ import { RegisterComponent } from './register/register.component';
   ]
 })
 export class AuthModule { }
+
+//ADRIAN MUÑOZ

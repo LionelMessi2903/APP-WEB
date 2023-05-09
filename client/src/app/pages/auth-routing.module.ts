@@ -1,17 +1,14 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { Error404Component } from './error404/error404.component';
 
 
 
 @NgModule({
-  declarations: [
-    Error404Component
-  ],
+  declarations: [],
   imports: [
     CommonModule
   ]
 })
-export class NotfoundModule { }
+export class AuthRoutingModule { }
 
 //ADRIAN MUÑOZ

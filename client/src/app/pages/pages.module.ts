@@ -17,3 +17,5 @@ import { ProductsComponent } from './products/products.component';
   ]
 })
 export class PagesModule { }
+
+//ADRIAN MUÑOZ

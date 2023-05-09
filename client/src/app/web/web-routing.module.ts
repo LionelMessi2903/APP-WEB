@@ -9,4 +9,6 @@ import { CommonModule } from '@angular/common';
     CommonModule
   ]
 })
-export class BreadcrumbsModule { }
+export class WebRoutingModule { }
+
+//ADRIAN MUÑOZ

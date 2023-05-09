@@ -21,3 +21,5 @@ describe('FooterComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+
+//ADRIAN MUÑOZ
